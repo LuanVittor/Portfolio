@@ -1,0 +1,57 @@
+.card {
+  width: 500px;
+}
+
+.title {
+  padding-top: 1%;
+}
+
+.divProjects {
+  display: flex;
+  width: 100%;
+  padding: 1%;
+  justify-content: space-around;
+}
+
+.teste {
+  padding: 3%;
+  width: 1000px;
+}
+
+.projectDetail {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.mainContent {
+  padding: 1%;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: black solid 1px;
+}
+
+.headerProject {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: black solid 1px;
+  align-items: center;
+  padding: 1%;
+}
+
+.textDescription {
+  width: 60%;
+  display: flex;
+  align-items: center;
+}
+
+.dates{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1%;
+  border-bottom: black solid 1px;
+}
+
+.tecnologies {
+
+}
