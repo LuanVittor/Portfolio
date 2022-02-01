@@ -20,7 +20,7 @@ export default function MainPageEn() {
         <div className='aboutMe'>
           <div className='textAbout'>
             <h1>About Me</h1>
-            <h3 >Since I was a child, I was very curious and interested in the world of technology, after going through a work experience in Canada trying to find myself and 3 years working in the financial sector in a graphics industry, I feel very happy to have discovered my real vocation: Programming! </h3>
+            <h3 >Since I was a child, I was very curious and interested in the world of technology, after going through a work experience in Canada trying to find myself and 3 years working in the financial sector in a paper industry, I feel very happy to have discovered my real vocation: Programming! </h3>
           </div>
           <img className='photome' src={FotoMinha2} alt='Me at my Workspace' />
         </div>
