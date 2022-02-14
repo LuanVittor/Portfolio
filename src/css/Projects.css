@@ -52,6 +52,17 @@
   border-bottom: black solid 1px;
 }
 
-.tecnologies {
+.subDiv {
+  display: flex;
+  justify-content: space-b;
+}
 
+.tecnologies{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.usedTechnologies {
+  width: 50%;
 }
