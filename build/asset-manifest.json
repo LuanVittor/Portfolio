@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8890ffe3.css",
-    "main.js": "/static/js/main.9094aa9d.js",
+    "main.js": "/static/js/main.89064eb5.js",
     "static/js/787.9b9c0edf.chunk.js": "/static/js/787.9b9c0edf.chunk.js",
     "static/media/Recipes_App.png": "/static/media/Recipes_App.04c176aca87593073c7d.png",
     "static/media/TrybeStore.png": "/static/media/TrybeStore.39ab348c23d07300278e.png",
@@ -10,11 +10,11 @@
     "static/media/Kahootify.png": "/static/media/Kahootify.49fe4d7961445ea46979.png",
     "index.html": "/index.html",
     "main.8890ffe3.css.map": "/static/css/main.8890ffe3.css.map",
-    "main.9094aa9d.js.map": "/static/js/main.9094aa9d.js.map",
+    "main.89064eb5.js.map": "/static/js/main.89064eb5.js.map",
     "787.9b9c0edf.chunk.js.map": "/static/js/787.9b9c0edf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8890ffe3.css",
-    "static/js/main.9094aa9d.js"
+    "static/js/main.89064eb5.js"
   ]
 }
