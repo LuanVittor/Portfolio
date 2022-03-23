@@ -10,8 +10,8 @@ export default function ContactPT() {
         <h1>Email: luan_vittor@hotmail.com</h1>
         <h1>Telefone: +55 (11) 99361-6681</h1>
         <br />
-      <h1>Baixe meu curriculo aqui!</h1>
-      <a className='icons' href="https://drive.google.com/file/d/1lIY1dIHpAUdfPl657dcB3ARNTZ8NWY4Q/view?usp=sharing" target='_blank'><img src="https://pixsector.com/cache/5d353540/av3544fca9fdc10112f68.png" alt="Download" height='75' width='75' /></a>
+      <h1>Veja e baixe meu curriculo aqui!</h1>
+      <a className='icons' href="https://drive.google.com/file/d/14kpyunogaPBht66O6E1LRXNiJtI-fKxb/view?usp=sharing" target='_blank'><img src="https://pixsector.com/cache/5d353540/av3544fca9fdc10112f68.png" alt="Download" height='75' width='75' /></a>
       </div>
       <div className='icons'>
       <a href="mailto:luan_vittor@hotmail.com" target="_blank">

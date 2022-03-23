@@ -25,7 +25,7 @@ export default function ContactEn() {
         </div>
         <br />
         <h2>You can view and download my CV clicking here
-          <a href="https://drive.google.com/file/d/1_nTtNCmg9GJ9XxAHo31VMvL_feRJ-ASc/view?usp=sharing" target='_blank'><img src="https://pixsector.com/cache/5d353540/av3544fca9fdc10112f68.png" alt="View CV" height='75' width='75' /></a>
+          <a href="https://drive.google.com/file/d/1G0v6sG1yoD8vN-LUh-UwbYTAscJw2aBw/view?usp=sharing" target='_blank'><img src="https://pixsector.com/cache/5d353540/av3544fca9fdc10112f68.png" alt="View CV" height='75' width='75' /></a>
         </h2>
       </div>
 
