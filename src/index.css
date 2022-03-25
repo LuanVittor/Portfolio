@@ -1,13 +1,16 @@
 
+@media screen and (min-width: 1024px) {
+#under_construction {
+  display: none;
+}
+}
+
 @media screen and (max-width: 1023px) {
   #root {
     display: none;
   }
 } 
 
-#under_construction {
-  display: none;
-}
 
 body {
   margin: 0;

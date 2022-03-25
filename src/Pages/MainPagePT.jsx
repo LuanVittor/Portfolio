@@ -18,7 +18,7 @@ export default function MainPagePT() {
         <div className='aboutMe'>
           <div className='textAbout'>
             <h1>Sobre mim</h1>
-            <h3 >Desde crianca muito curioso e interessado pelo mundo da tecnolgia, apos passar por uma experiecia de trabalho no Canada tentando me encontrar e 3 anos trabalhando no setor financeiro em um industria grafica, me sinto muito feliz em ter descoberto minha real vocação: Programar! </h3>
+            <h3 >Desde criança fui muito curioso e interessado pelo mundo da tecnologia, apos passar por uma experiência de trabalho, estudo e morar sozinho no Canada tentando me encontrar voltei 3 anos trabalhando no setor financeiro em uma indústria gráfica, e hoje me sinto muito feliz em dizer finalmente ter descoberto minha real vocação: Programar! </h3>
           </div>
           <img className='photome' src={FotoMinha2} alt='Me at my Workspace' />
         </div>
