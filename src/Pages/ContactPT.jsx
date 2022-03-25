@@ -14,8 +14,8 @@ export default function ContactPT() {
           <h3><b>Email:</b> </h3>
           <h3> luan_vittor@hotmail.com</h3>
         </div>
-        <button className='btn btn-primary' onClick={() => { navigator.clipboard.writeText('luan_vittor@hotmail.com') }}>Copiar Email</button>
-        <br />
+        {/* <button className='btn btn-primary' onClick={() => { navigator.clipboard.writeText('luan_vittor@hotmail.com') }}>Copiar Email</button> */}
+        {/* <br /> */}
         <div className='meForm'>
           <h3><b>Celular:</b> </h3>
           <h3> +55 (11) 99361-6681</h3>
