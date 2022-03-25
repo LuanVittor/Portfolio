@@ -1,3 +1,14 @@
+
+@media screen and (max-width: 1023px) {
+  #root {
+    display: none;
+  }
+} 
+
+#under_construction {
+  display: none;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
