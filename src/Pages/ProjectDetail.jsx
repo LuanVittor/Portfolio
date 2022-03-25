@@ -5,7 +5,7 @@ const PROJECTS = [
   {
     id: '1',
     Name: 'Trybe Store',
-    Tecnologies: ['React', 'JavaScript', 'CSS'],
+    Tecnologies: ['React', 'Api Rest', 'JavaScript', 'CSS', 'HTML', 'Cypress', 'LocalStorage'],
     StartDate: '01/Nov/2021',
     ConclusionDate: '04/Nov/2021',
     VideoLink: 'https://www.youtube.com/embed/i3THVCZUmNM',
@@ -15,7 +15,7 @@ const PROJECTS = [
   {
     id: '2',
     Name: 'Recipes app',
-    Tecnologies: ['React', 'JavaScript', 'CSS', 'LocalStorage', 'RTL', 'Bootstrap'],
+    Tecnologies: ['React', 'Api Rest', 'JavaScript', 'CSS', 'LocalStorage', 'RTL', 'Bootstrap'],
     StartDate: '02/jan/2022',
     ConclusionDate: '10/jan/2022',
     VideoLink: 'https://www.youtube.com/embed/Q7OK1ZuPYhk',
@@ -25,7 +25,7 @@ const PROJECTS = [
   {
     id: '3',
     Name: 'Kahootify',
-    Tecnologies: ['React', 'JavaScript', 'CSS'],
+    Tecnologies: ['HTML', 'JavaScript', 'CSS'],
     StartDate: '30/Sep/2021',
     ConclusionDate: '02/Oct/2021',
     VideoLink: 'https://www.youtube.com/embed/1r-7QB_1QrM',
@@ -67,7 +67,8 @@ export default function ProjectDetail() {
                     {elem.Tecnologies.map((elem, i) => <h5 key={i}>{elem}</h5>)}
                   </div>
                   </div>
-                  <h2>Teste</h2>
+                  <h2>What I learned?....</h2>
+                  <h2>Under construction</h2>
                 </div>
               </div>
             )

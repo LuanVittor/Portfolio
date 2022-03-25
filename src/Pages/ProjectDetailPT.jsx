@@ -60,9 +60,15 @@ export default function ProjectDetailPT() {
                   <h4 className='textDescription'>{elem.Description}</h4>
                   <iframe width="560" height="315" src={elem.VideoLink} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>
+                <div className='subDiv'>
+                  <div className='usedTechnologies'>
                 <h3>Tecnologias Usadas</h3>
                 <div className='tecnologies'>
                   {elem.Tecnologies.map((elem, i) => <h5 key={i}>{elem}</h5>)}
+                  </div>
+                  </div>
+                  <h2>Oque eu aprendi ?.... </h2>
+                  <h2>Em construção</h2>
                 </div>
               </div>
             )
