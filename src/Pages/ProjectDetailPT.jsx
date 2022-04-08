@@ -48,7 +48,7 @@ export default function ProjectDetailPT() {
                 <div className='headerProject'>
                   <button className="btn btn-primary" onClick={() => navigate('/projects/pt')}>Voltar</button>
                   <h2>{elem.Name}</h2>
-                  <a href="https://github.com/LuanVittor" target="_blank">
+                  <a href={elem.GitHubLink} target="_blank">
                     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height='75' width='75' />
                   </a>
                 </div>
