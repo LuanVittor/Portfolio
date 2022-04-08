@@ -10,7 +10,7 @@ const PROJECTS = [
     ConclusionDate: '04/Nov/2021',
     VideoLink: 'https://www.youtube.com/embed/i3THVCZUmNM',
     Description: 'Essa Loja Virtual foi feita usando a api do MercadoLivre e fazendo toda manipulacao de informcoes ultilizando apenas props, isso mesmo, apenas props. O maior aprendizado desse projeto veio atravez da confusao de dados onde era preciso passar informacoes entre componentes pais e filhos, fazendo a aplicacao ficar cheia de funcoes e de alta complexidade, assim mostrando a necessidade de se usar Redux e React Hooks!',
-    GitHubLink: 'https://github.com/tryber/sd-015-a-project-frontend-online-store/pull/195', // link nao fucniona pois n eh publico
+    GitHubLink: 'https://github.com/LuanVittor/FrontEnd-Online-Store', 
   },
   {
     id: '2',
@@ -20,7 +20,7 @@ const PROJECTS = [
     ConclusionDate: '10/jan/2022',
     VideoLink: 'https://www.youtube.com/embed/Q7OK1ZuPYhk',
     Description: 'Um aplicativo de receitas feito com o intuito de aprimorar meu conhecimentos em React, nesse aplicativo utilizei majoritoriamente Context API para manipulacao de informacoes e localStorage para salvar informacoes de sessao. O Aplicativo conta com mais de 15 paginas diferentes, a possibilidade de iniciar receitas, favoritar, compartilhar elas!  As Comidas/Bebidas sao extraidas de uma API assim como todas suas informacoes.',
-    GitHubLink: 'GitHub Link',
+    GitHubLink: 'https://github.com/LuanVittor/Recipes-App',
   },
   {
     id: '3',
@@ -30,7 +30,7 @@ const PROJECTS = [
     ConclusionDate: '02/Oct/2021',
     VideoLink: 'https://www.youtube.com/embed/1r-7QB_1QrM',
     Description: 'Uma aplicacao descontraida baseada no jogo Kahoot onde o objetivo eh acetar o compositor da musica q esta tocando em menos tempo possivel. A plicacao foi feita INTEIRAMENTE em Javascript, sem a ultilizacao de qualquer biblioteca ou frameword. Todas as informacoes como genero musical, artista e nome da musica foram retiradas da API do Spotify!',
-    GitHubLink: 'GitHub Link',
+    GitHubLink: 'https://github.com/LuanVittor/Kahootify',
   },
 ]
 

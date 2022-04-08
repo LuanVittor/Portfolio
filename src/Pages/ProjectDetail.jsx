@@ -10,7 +10,7 @@ const PROJECTS = [
     ConclusionDate: '04/Nov/2021',
     VideoLink: 'https://www.youtube.com/embed/i3THVCZUmNM',
     Description: 'This Virtual Store was made using the MercadoLivre API and making all the manipulation of information using only props, thats right, just props. The biggest learning from this project came through the data confusion where it was necessary to pass information between parent and child components, making the application full of functions and high complexity, thus showing the need to use Redux and React Hooks!',
-    GitHubLink: 'https://github.com/tryber/sd-015-a-project-frontend-online-store/pull/195', // link nao fucniona pois n eh publico
+    GitHubLink: 'https://github.com/LuanVittor/FrontEnd-Online-Store',
   },
   {
     id: '2',
@@ -20,7 +20,7 @@ const PROJECTS = [
     ConclusionDate: '10/jan/2022',
     VideoLink: 'https://www.youtube.com/embed/Q7OK1ZuPYhk',
     Description: 'A recipe application made in order to improve my knowledge in React, in this application I mostly used Context API to manipulate information and localStorage to save session information. The Application has more than 15 different pages, the possibility to start recipes, favorite, share them! Food/Drinks are extracted from an API as is all of its information.',
-    GitHubLink: 'GitHub Link',
+    GitHubLink: 'https://github.com/LuanVittor/Recipes-App',
   },
   {
     id: '3',
@@ -30,7 +30,7 @@ const PROJECTS = [
     ConclusionDate: '02/Oct/2021',
     VideoLink: 'https://www.youtube.com/embed/1r-7QB_1QrM',
     Description: 'A relaxed application based on the game Kahoot where the objective is to accept the composer of the music that is playing in the least possible time. The application was made ENTIRELY in Javascript, without the use of any library or frameword. All information such as music genre, artist and song name were taken from the Spotify API!',
-    GitHubLink: 'GitHub Link',
+    GitHubLink: 'https://github.com/LuanVittor/Kahootify',
   },
 ]
 
