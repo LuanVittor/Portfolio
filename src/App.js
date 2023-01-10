@@ -29,8 +29,6 @@ export default function App() {
             <Route path="/contact" element={<ContactEn />} />
             <Route path="/projects" element={<ProjectEn />} />
             <Route path="/" element={<MainPageEn />} />
-
-
           </Routes>
         </Language>
       </BrowserRouter>
