@@ -30,7 +30,6 @@ export default function App() {
             <Route path="/projects" element={<ProjectEn />} />
             <Route path="/" element={<MainPageEn />} />
           </Routes>
-          
         </Language>
       </BrowserRouter>
     </div>
