@@ -19,6 +19,7 @@ export default function App() {
       <BrowserRouter>
         <Language>
           <Routes>
+            
             <Route path="/projects/:id/pt" element={<ProjectDetailPT />} />
             <Route path="/projects/pt" element={<ProjectPt />} />
             <Route path="/contact/pt" element={<ContactPT />} />
@@ -29,6 +30,7 @@ export default function App() {
             <Route path="/contact" element={<ContactEn />} />
             <Route path="/projects" element={<ProjectEn />} />
             <Route path="/" element={<MainPageEn />} />
+
           </Routes>
         </Language>
       </BrowserRouter>
