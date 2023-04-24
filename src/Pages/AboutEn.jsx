@@ -15,7 +15,6 @@ export default function AboutEn() {
       I'm looking for new experiences as a Full Stak Developer,
 
       I'm a fully love of tecnologies,
-
       Proactive,
       Capacity to things by my self,
       Not afraid to learn from my mistakes,
