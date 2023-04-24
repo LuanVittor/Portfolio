@@ -19,9 +19,6 @@ export default function AboutEn() {
       Proactive,
       Capacity to things by my self,
       Not afraid to learn from my mistakes,
-
-      {/* Back in 2019 I went to Toronto - Canada, to studie Customer Service Experience, over this year I started to work in an Butcher shop without have any backgroung experiecie and no domain of the English, and I did great. */}
-
     </div>
   )
 }
