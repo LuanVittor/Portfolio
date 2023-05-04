@@ -19,7 +19,6 @@ export default function AboutEn() {
       Proactive,
       Capacity to things by my self,
       Not afraid to learn from my mistakes,
-      
     </div>
   )
 }
