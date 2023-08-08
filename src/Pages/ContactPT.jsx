@@ -22,7 +22,7 @@ export default function ContactPT() {
         </div>
         <br />
         <h2>Veja e baixe meu curriculo aqui!
-          <a href="https://drive.google.com/file/d/1s4dKArEFT3WKnUZtCfts0hyE-Rl48Ubp/view?usp=sharing" target='_blank'><img src="https://pixsector.com/cache/5d353540/av3544fca9fdc10112f68.png" alt="View CV" height='75' width='75' /></a>
+          <a href="https://drive.google.com/file/d/1pGdBdm6Cz9YtTfQ1yYBqA0Cg6xs_zi6x/view?usp=sharing" target='_blank'><img src="https://pixsector.com/cache/5d353540/av3544fca9fdc10112f68.png" alt="View CV" height='75' width='75' /></a>
         </h2>
       </div>
       <div className='icons'>
