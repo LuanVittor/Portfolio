@@ -18,7 +18,7 @@ export default function ContactPT() {
         {/* <br /> */}
         <div className='meForm'>
           <h3><b>Celular:</b> </h3>
-          <h3> +55 (11) 99361-6681</h3>
+          <h3> +55 (11) 99606-0994</h3>
         </div>
         <br />
         <h2>Veja e baixe meu curriculo aqui!

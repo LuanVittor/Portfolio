@@ -21,7 +21,7 @@ export default function ContactEn() {
         {/* <br/> */}
         <div className='meForm'>
           <h3><b>Phone Number:</b> </h3>
-          <h3> +55 (11) 99361-6681</h3>
+          <h3> +55 (11) 99606-0994</h3>
         </div>
         <br />
         <h2>You can view and download my CV clicking here
